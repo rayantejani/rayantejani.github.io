@@ -1,0 +1,24 @@
+h3{
+    font-style: italic;
+    color: darkblue;
+    margin-left: 10px;
+    border: 2px solid black;
+}
+
+.HW5Title{
+    font-style: bold;
+    color: rebeccapurple;
+    border: black;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    border: 2px solid blue;
+}
+
+#styleid{
+    font-style: italic;
+    color: lightsalmon;
+}
+
+a:hover {
+    color: orange;
+  }
